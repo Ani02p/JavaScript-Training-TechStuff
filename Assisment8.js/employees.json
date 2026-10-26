@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": 1,
+    "name": "Aman Sharma",
+    "salary": 650000
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "salary": 450000
+  },
+  {
+    "id": 3,
+    "name": "Sam Patel",
+    "salary": 850000
+  },
+  {
+    "id": 4,
+    "name": "Priya Singh",
+    "salary": 720000
+  },
+  {
+    "id": 5,
+    "name": "Ramesh Gupta",
+    "salary": 500000
+  }
+]
